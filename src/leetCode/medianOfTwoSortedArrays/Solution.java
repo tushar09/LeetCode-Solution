@@ -1,7 +1,5 @@
-package medianOfTwoSortedArrays;
+package leetCode.medianOfTwoSortedArrays;
 
-import java.math.BigInteger;
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Solution {

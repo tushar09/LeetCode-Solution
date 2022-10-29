@@ -1,4 +1,4 @@
-package palindromeBreaker;
+package leetCode.palindromeBreaker;
 
 public class PalindromeBreaker {
     public static void main(String args []){

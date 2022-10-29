@@ -1,4 +1,4 @@
-package topKfrequentWords;
+package leetCode.topKfrequentWords;
 
 import java.util.*;
 import java.util.stream.Collectors;

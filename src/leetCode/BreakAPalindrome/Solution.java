@@ -1,4 +1,4 @@
-package BreakAPalindrome;
+package leetCode.BreakAPalindrome;
 
 class Solution {
 
