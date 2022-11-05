@@ -1,9 +1,7 @@
-package longestSubstring;
+package leetCode.longestSubstring;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.LinkedHashMap;
-import java.util.LinkedList;
 
 public class Solution {
     public static void main(String[] args) {
